@@ -12,3 +12,8 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://react-9bibz8.onspace.build/sitemap.xml
